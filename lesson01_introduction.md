@@ -9,7 +9,7 @@
 
 ## Instruction (សេចក្តីណែនាំ)
 
-**How to use this lesson (របៀបប្រើមេរៀននេះ):**  
+**How to use this lesson:**  
 - Read the **English** section first, then read the **Khmer** section below.  
 - This lesson explains the **concepts and big picture** of the project.  
 - Keep `fcc_MAGIC_example.ipynb` open at the same time — you will see the real Python code that matches what we explain here.  
@@ -173,6 +173,7 @@ df["class"] = (df["class"] == "g").astype(int)
 
 print(df.head())
 ការប្តូរស្លាកនេះមានសារៈសំខាន់ ព្រោះម៉ូដែលភាគច្រើនត្រូវការលេខ ជាពិសេសនៅពេលប្រើ Binary Cross-Entropy Loss។
+
 Machine Learning គឺជាអ្វី?
 Machine Learning គឺជាផ្នែកមួយនៃវិទ្យាសាស្ត្រកុំព្យូទ័រ ដែលធ្វើឱ្យកុំព្យូទ័ររៀនពីទិន្នន័យ ដោយមិនត្រូវការសរសេរក្បួនច្បាស់លាស់ទាំងអស់។
 AI vs ML vs DS
@@ -205,4 +206,3 @@ Accuracy = ចំនួនត្រឹមត្រូវ / ចំនួនសរ
 ចប់មេរៀនទី១
 បន្តទៅ មេរៀនទី២៖ Data Loading & Exploration
 Happy learning! 🚀
-សូមរៀនដោយសប្បាយ!
